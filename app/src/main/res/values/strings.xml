@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestRetrofit</string>
+
+    <string name="add_student_secondName">Фамилия</string>
+    <string name="add_student_birthday">День рождения</string>
+    <string name="add_student_class">Класс</string>
+    <string name="add_student_letterOfClass">Буква класса</string>
+    <string name="add_student_address">Адрес</string>
+    <string name="add_student_add">Добавить</string>
+    <string name="add_student_firstName">Имя</string>
+    <string name="show_student_button">Показать</string>
+    <string name="show_students_with_id">по id</string>
+</resources>
